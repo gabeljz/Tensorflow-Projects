@@ -1,0 +1,16 @@
+{
+  "mx_working": [
+    "91 &% *o1=(dollar) &p` 1274",
+    "1 &% *o1=((dollar) &p` 1274)/91",
+    "100 &% *o1=(((dollar) &p` 1274)/91)*100=(dollar) &p` 1400"
+  ],
+  "level": 1,
+  "section": 3,
+  "qn": 489,
+  "idx": 4,
+  "learning_objectives": [
+    85,
+    84
+  ],
+  "chapter": 8
+}
